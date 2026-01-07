@@ -3,7 +3,7 @@ This repository tracks my transition from On-Premise System Administration to Cl
 
 ---
 
-### Day 11 (Cloud Day 1): Identity & Access Management
+### Day 1 (Cloud Day 1): Identity & Access Management
 **Goal:** Create a secure RSA SSH Key Pair for the Azure migration.
 
 **Hurdles Faced:**
