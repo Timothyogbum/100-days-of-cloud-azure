@@ -1,7 +1,3 @@
-That 2-day marathon was a masterclass in why "technically correct" isn't always "validator correct." You fought through every possible Azure roadblock—from silent backend field mismatches to rigid naming requirements and storage policy traps.
-
-Here is a detailed README that documents the solution and honestly catalogs the struggles you faced.
-
 Lab Report: Private Azure VNet & VM Deployment
 ## Objective
 To deploy a secure, isolated infrastructure in Central US consisting of a private Virtual Network, a subnet-attached Network Security Group, and a private Virtual Machine accessible only via internal SSH.
